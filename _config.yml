@@ -104,10 +104,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Kim Dong Wook"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : "Magnetic Resonance Imaging, Parallel Imaging"
+  location         : "South Korea, Seoul"
   email            :
   links:
     - label: "Email"
