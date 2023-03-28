@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "Kim Dong Wook"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Magnetic Resonance Imaging,  Parallel Imaging"
+  bio              : "Magnetic Resonance Imaging,<br>Parallel Imaging"
   location         : "South Korea, Seoul"
   email            :
   links:
