@@ -1,6 +1,6 @@
 ---
 layout: single
-title:  "0. Introduction"
+title:  "0.Introduction"
 date: 2023-03-27 19:54:38
 categories: ParallelImaging
 tag: PI
