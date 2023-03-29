@@ -4,6 +4,7 @@ title:  "Introduction"
 categories: ParallelImaging
 tag: PI
 toc: true
+author_profile: false
 ---
 
 # Objective<br>
