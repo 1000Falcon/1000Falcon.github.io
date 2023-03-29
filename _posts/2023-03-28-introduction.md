@@ -7,6 +7,7 @@ toc: true
 author_profile: false
 sidebar:
     nav: "docs"
+#search: false # <- if this page is not wanted to be searched
 ---
 
 # Objective<br>
