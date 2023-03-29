@@ -3,6 +3,7 @@ layout: single
 title:  "Introduction"
 categories: ParallelImaging
 tag: PI
+toc: true
 ---
 
 # Objective<br>
