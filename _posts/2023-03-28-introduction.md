@@ -1,7 +1,8 @@
 ---
 layout: single
 title:  "Introduction"
-categories: coding
+categories: ParallelImaging
+tag: PI
 ---
 
 # Objective<br>
