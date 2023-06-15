@@ -1,0 +1,15 @@
+---
+layout: single
+title:  "5.&nbsp;SPIRiT"
+date: 2023-06-15 14:21:50
+categories: ParallelImaging
+tag: PI
+toc: true
+author_profile: false
+sidebar:
+    nav: "docs"
+#search: false # <- if this page is not wanted to be searched
+---
+
+# SPIRiT: Iterative Self-consistent Parallel Imaging Reconstruction
+
