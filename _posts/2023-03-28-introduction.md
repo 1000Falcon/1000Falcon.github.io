@@ -2,7 +2,7 @@
 layout: single
 title:  "1.&nbsp;Introduction to Parallel Imaging"
 date: 2023-03-27 19:54:38
-categories: "Parallel&nbsp;Imaging"
+categories: "ParallelImaging"
 tag: PI
 toc: true
 author_profile: false
